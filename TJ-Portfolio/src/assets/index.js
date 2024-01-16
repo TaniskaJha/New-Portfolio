@@ -48,7 +48,7 @@ import saksham from './projects/saksham.jpeg';
 import skatezy from './projects/skatezy.jpg';
 import webot from './projects/webot.png';
 import symphony from './projects/symphony.png';
-import space from './projects/space-hub.png';
+
 
 export {
   bwmap,
@@ -91,7 +91,7 @@ export {
   webot,
   skatezy,
   saksham,
-  space,
+ 
   coverhunt,
   dcc,
   kelhel,
