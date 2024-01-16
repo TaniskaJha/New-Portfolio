@@ -148,7 +148,7 @@ const Contact = () => {
 
           <div className="mt-1 flex items-center space-x-5">
   <a href="https://www.linkedin.com/in/taniska-jha-654b22229" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/personal/linkedin.png" alt="LinkedIn" className="h-12 w-12" />
+    <img src={require('/src/assets/personal/linkedin.png').default} alt="LinkedIn" className="h-12 w-12" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank" rel="noopener noreferrer">
     <img src="/assets/personal/insta.png" alt="Instagram" className="h-12 w-12" />
